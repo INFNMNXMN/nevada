@@ -1,0 +1,13 @@
+body {
+  overflow: hidden;
+  background-color: blue;
+  background-image: url("./fondo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: snow;
+}
+#root {
+  overflow: hidden;
+  height: 100vh;
+}
